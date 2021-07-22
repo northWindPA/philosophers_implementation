@@ -3,7 +3,7 @@ Philosophers is a multithreading project.
 
 philo_one:
 
-Philosophers are threads, forks are mutex
+Philosophers are threads, forks are mutexes
 
 philo_bonus:
 
