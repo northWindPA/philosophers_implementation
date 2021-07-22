@@ -7,5 +7,5 @@ Philosophers are threads, forks are mutex
 
 philo_bonus:
 
-Philosophers are processes, forks are semaphore
+Philosophers are processes, forks are semaphores
 
